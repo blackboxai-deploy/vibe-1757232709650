@@ -1,0 +1,14 @@
+
+    Disaster Recovery Assessment - Test Document
+    
+    This is a test document for the Resilience2Relief AI system.
+    
+    Key sectors:
+    - Housing reconstruction
+    - Infrastructure repair
+    - Healthcare system strengthening
+    
+    Estimated budget: $50 million
+    Timeline: 24 months
+    Beneficiaries: 100,000 people
+    
