@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from fastapi import FastAPI, UploadFile, File
 from rag_chain_model import generate_project_ideas
 import shutil
